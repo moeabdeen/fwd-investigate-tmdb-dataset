@@ -7,7 +7,7 @@ Investigate the TMDB movie dataset
 ### Description
 In this project, I used **python** with **pandas, numpy, matplotlib, seaborn** to do exploratory analysis and come up with conclusions.
 
-This is one of three projects where you have to apply what you have learned about Postgresql, python, git and github after being prepared by a lot of practice questions and quizes.
+This is one of three projects where you have to apply what you have learned about SQL & python using projects.
 
 ### Files used
 The files used to provide the data to be analyzed:
